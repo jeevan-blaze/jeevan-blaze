@@ -36,7 +36,7 @@ I'm continually expanding my knowledge and skills. Currently, I'm focused on:
 
 I'm always open to collaborations and discussions. Feel free to connect with me via:
 
-- Email: [your.email@example.com](mailto:jeevan@blazeautomation.com)
+- Email: [jeevan@blazeautomation.com](mailto:jeevan@blazeautomation.com)
 - LinkedIn: [Your LinkedIn Profile](https://in.linkedin.com/in/jeevan-sai-gudela-39aa3919a)
 
 Let's build amazing things with Node.js! 🚀
